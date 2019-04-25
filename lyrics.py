@@ -27,13 +27,41 @@ lyrics_list =  ['You are the dancing queen\nYoung and sweet\nOnly seventeen',
                 'The winner takes it all','The loser standing small','Beside the victory\nThat\'s her destiny',
                 'Money, money, money\nMust be funny','In the rich man\'s world','Money, money, money\nAlways sunny',
                 'In the rich man\'s world\nAha aha','All the things I could do','If I had a little money\nIt\'s a rich man\'s world',
-                'It's a rich man's world
-
-So when you're near me, darling can't you hear me
-S. O. S.
-The love you gave me, nothing else can save me
-S. O. S.
-When you're gone
-How can I even try to go on?
-When you're gone
-Though I try how can I carry on?
+                'It\'s a rich man\'s world','So when you\'re near me, darling can\'t you hear me\nS. O. S.',
+                'The love you gave me, nothing else can save me\nS. O. S.','When you\'re gone\nHow can I even try to go on?',
+                'When you\'re gone\nThough I try how can I carry on?','Chiquitita, you and I know',
+                'How the heartaches come and they go and the scars they\'re leaving',
+                'You\'ll be dancing once again and the pain will end','You will have no time for grieving',
+                'Chiquitita, you and I cry','But the sun is still in the sky and shining above you',
+                'Let me hear you sing once more like you did before','Sing a new song, Chiquitita',
+                'Try once more like you did before\nSing a new song, Chiquitita','There was something in the air that night',
+                'The stars were bright, Fernando','They were shining there for you and me\nFor liberty, Fernando',
+                'Though I never thought that we could lose\nThere\'s no regret',
+                'If I had to do the same again\I would, my friend, Fernando',
+                'If I had to do the same again\nI would, my friend, Fernando','Voulez-vous (ah-ha)\nTake it now or leave it (ah-ha)',
+                'Now it\'s all we get (ah-ha)\nNothing promised, no regrets','Voulez-vous (ah-ha)\nAin\'t no big decision (ah-ha)',
+                'You know what to do (ah-ha)\nLa question c\'est; voulez-vous','Gimme, gimme, gimme a man after midnight',
+                'Won\'t somebody help me\nChase the shadows away','Gimme, gimme, gimme a man after midnight',
+                'Take me through the darkness\nTo the break of the day','Gimme, gimme, gimme a man after midnight',
+                'Gimme, gimme, gimme a man after midnight','There\'s not a soul out there\nNo one to hear my prayer',
+                'Well I can dance with you honey\nIf you think it\'s funny','Does your mother know that you\'re out',
+                'And I can chat with you baby\nFlirt a little maybe','Does your mother know that you\'re out',
+                'Take it easy (take it easy)\nBetter slow down girl','That\'s no way to go\nDoes your mother know',
+                'Take it easy (take it easy)\nTry to cool it girl','Take it nice and slow\nDoes your mother know',
+                'One of us is crying','One of us is lying\nIn her lonely bed',
+                'Staring at the ceiling\nWishing she was somewhere else instead','One of us is lonely',
+                'One of us is only\nWaiting for a call','Sorry for herself, feeling stupid feeling small',
+                'Wishing she had never left at all','What\'s the name of the game?\nDoes it mean anything to you?',
+                'What\'s the name of the game?\nCan you feel it the way I do?','Tell me please, \'cause I have to know',
+                'I\'m a bashful child, beginning to grow','And you make me talk\And you make me feel',
+                'And you make me show\nWhat I\'m trying to conceal','If I trust in you, would you let me down?',
+                'Would you laugh at me, if I said I care for you?','Could you feel the same way too?',
+                'I wanna know\nOh yes I wanna know','So I say\nThank you for the music, the songs I\'m singing',
+                'Thanks for all the joy they\'re bringing','Who can live without it, I ask in all honesty',
+                'What would life be?\nWithout a song or a dance what are we?',
+                'So I say thank you for the music\nFor giving it to me','Oh, oh Waterloo finally facing my Waterloo',
+                'So how could I ever refuse\nI feel like I win when I lose','Waterloo couldn\'t escape if I wanted to',
+                'Waterloo knowing my fate is to be with you','Waterloo finally facing my Waterloo',
+                'Waterloo knowing my fate is to be with you','Oh, oh Waterloo finally facing my Waterloo',
+                'Waterloo knowing my fate is to be with you','Waterloo I was defeated, you won the war',
+                'Waterloo promise to love you for ever more']
